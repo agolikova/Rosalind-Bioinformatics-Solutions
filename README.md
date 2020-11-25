@@ -45,3 +45,8 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | INOD    | Counting Phylogenetic Ancestors|[Info](http://rosalind.info/problems/inod/)|
 | KMER    | k-Mer Composition|[Info](http://rosalind.info/problems/kmer/)|
 | KMP     | Speeding Up Motif Finding|[Info](http://rosalind.info/problems/kmp/)|
+| LCSQ    | Finding a Shared Spliced Motif|[Info](http://rosalind.info/problems/lcsq/)|
+| LEXV    | Ordering Strings of Varying Length Lexicographically|[Info](http://rosalind.info/problems/lexv/)|
+| MMCH    | Maximum Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/mmch/)|
+| PDST    | Creating a Distance Matrix|[Info](http://rosalind.info/problems/pdst/)|
+| RSTR    | Matching Random Motifs|[Info](http://rosalind.info/problems/tree/)|
