@@ -49,4 +49,16 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | LEXV    | Ordering Strings of Varying Length Lexicographically|[Info](http://rosalind.info/problems/lexv/)|
 | MMCH    | Maximum Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/mmch/)|
 | PDST    | Creating a Distance Matrix|[Info](http://rosalind.info/problems/pdst/)|
-| RSTR    | Matching Random Motifs|[Info](http://rosalind.info/problems/tree/)|
+| RSTR    | Matching Random Motifs|[Info](http://rosalind.info/problems/rstr/)|
+| SSET    | Counting Subsets|[Info](http://rosalind.info/problems/sset/)|
+| ASPC    | Introduction to Alternative Splicing|[Info](http://rosalind.info/problems/aspc/)|
+| EDIT    | Edit Distance|[Info](http://rosalind.info/problems/edit/)|
+| EVAL    | Expected Number of Restriction Sites|[Info](http://rosalind.info/problems/eval/)|
+| MOTZ    | Motzkin Numbers and RNA Secondary Structures|[Info](http://rosalind.info/problems/motz/)|
+| NWCK    | Distances in Trees|[Info](http://rosalind.info/problems/nwck/)|
+| SCSP    | Interleaving Two Motifs|[Info](http://rosalind.info/problems/scsp/)|
+| SETO    | Introduction to Set Operations|[Info](http://rosalind.info/problems/seto/)|
+| TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|
+| EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
+| NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|
+| RNAS    | Wobble Bonding and RNA Secondary Structures|[Info](http://rosalind.info/problems/rnas/)|
