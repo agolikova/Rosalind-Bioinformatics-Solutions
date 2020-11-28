@@ -58,6 +58,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | NWCK    | Distances in Trees|[Info](http://rosalind.info/problems/nwck/)|
 | SCSP    | Interleaving Two Motifs|[Info](http://rosalind.info/problems/scsp/)|
 | SETO    | Introduction to Set Operations|[Info](http://rosalind.info/problems/seto/)|
+| SPEC    | Inferring Protein from Spectrum|[Info](http://rosalind.info/problems/spec/)|
 | TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|
 | EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
 | NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|
