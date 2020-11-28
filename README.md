@@ -63,3 +63,4 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
 | NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|
 | RNAS    | Wobble Bonding and RNA Secondary Structures|[Info](http://rosalind.info/problems/rnas/)|
+| GLOB    | Global Alignment with Scoring Matrix|[Info](http://rosalind.info/problems/glob/)|
