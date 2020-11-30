@@ -1,4 +1,3 @@
-#TRANSCRIBING DNA INTO RNA
 #Given: DNA string t having length at most 1000 nt
 #Return: Transcribed RNA string of t
 
