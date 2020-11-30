@@ -4,6 +4,7 @@
 
 def count_nt(file):
     """Return number of times that each nt appears in given DNA seq"""
+    
     for line in myfile:
         for word in line.split():
             A = word.count('A')
