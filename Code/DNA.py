@@ -8,8 +8,8 @@ def count_nt(file):
     for line in myfile:
         for word in line.split():
             A = word.count('A')
-            G = word.count('G')
             C = word.count('C')
+            G = word.count('G')
             T = word.count('T')
 
     print(A, C, G, T)
