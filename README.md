@@ -8,7 +8,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 
 | PROBLEM | NAME                  | INFO     | SOLUTION |
 | --------|-----------------------|----------|----------|
-| DNA     | Counting DNA Nucleotides|[Info](http://rosalind.info/problems/dna/)|
+| DNA     | Counting DNA Nucleotides|[Info](http://rosalind.info/problems/dna/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/DNA.py)|
 | RNA     | Transcribing DNA into RNA|[Info](http://rosalind.info/problems/rna/)|
 | REVC    | Complementing a Strand of DNA|[Info](http://rosalind.info/problems/revc/)|
 | FIB     | Rabbits and Recurrence Relations|[Info](http://rosalind.info/problems/fib/)|
