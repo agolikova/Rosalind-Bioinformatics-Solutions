@@ -25,8 +25,6 @@ print(transcription(myfile))
 #OPTION 3
 myfile = myfile.read()
 
-finalRNA = ""
-
 def transcription(file):
     finalRNA = ""
 
