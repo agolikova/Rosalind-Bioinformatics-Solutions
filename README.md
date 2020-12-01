@@ -60,6 +60,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | SETO    | Introduction to Set Operations|[Info](http://rosalind.info/problems/seto/)|
 | SPEC    | Inferring Protein from Spectrum|[Info](http://rosalind.info/problems/spec/)|
 | TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|
+| CONV    | Comparing Spectra with the Spectral Convolution|[Info](http://rosalind.info/problems/conv/)|
 | EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
 | NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|
 | RNAS    | Wobble Bonding and RNA Secondary Structures|[Info](http://rosalind.info/problems/rnas/)|
