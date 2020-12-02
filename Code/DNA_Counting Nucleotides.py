@@ -13,7 +13,5 @@ def count_nt(file):
 
     print(A, C, G, T)
 
-myfile = open('../Files/rosalind_bio_DNA.txt', 'r')
-count_nt(myfile)
-
-myfile.close()
+with open('../Files/rosalind_bio_DNA.txt') as myfile:
+    count_nt(myfile)
