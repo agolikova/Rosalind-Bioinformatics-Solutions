@@ -13,6 +13,8 @@ def transcription(file):
 
 print(transcription(myfile))
 
+myfile.close()
+
 #OPTION 2
 myfile = myfile.read()
 
