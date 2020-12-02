@@ -12,7 +12,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | RNA     | Transcribing DNA into RNA|[Info](http://rosalind.info/problems/rna/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/RNA_Transcribing%20DNA%20into%20RNA.py)|
 | REVC    | Complementing a Strand of DNA|[Info](http://rosalind.info/problems/revc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/REVC_Complementing%20a%20Strand%20of%20DNA.py)|
 | FIB     | Rabbits and Recurrence Relations|[Info](http://rosalind.info/problems/fib/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FIB_Rabbits%20and%20Recurrence%20Relations.py)|
-| GC      | Computing GC Content|[Info](http://rosalind.info/problems/gc/)|
+| GC      | Computing GC Content|[Info](http://rosalind.info/problems/gc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/GC_Computing%20GC%20Content.py)|
 | HAMM    | Counting Point Mutations|[Info](http://rosalind.info/problems/hamm/)|
 | IPRB    | Mendel's First Law|[Info](http://rosalind.info/problems/iprb/)|
 | PROT    | Translating RNA into Protein|[Info](http://rosalind.info/problems/prot/)|
