@@ -14,7 +14,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | FIB     | Rabbits and Recurrence Relations|[Info](http://rosalind.info/problems/fib/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FIB_Rabbits%20and%20Recurrence%20Relations.py)|
 | GC      | Computing GC Content|[Info](http://rosalind.info/problems/gc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/GC_Computing%20GC%20Content.py)|
 | HAMM    | Counting Point Mutations|[Info](http://rosalind.info/problems/hamm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/HAMM_Counting%20point%20mutations.py)|
-| IPRB    | Mendel's First Law|[Info](http://rosalind.info/problems/iprb/)|
+| IPRB    | Mendel's First Law|[Info](http://rosalind.info/problems/iprb/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/IPRB_Mendel's%20first%20law.py)|
 | PROT    | Translating RNA into Protein|[Info](http://rosalind.info/problems/prot/)|
 | SUBS    | Finding a Motif in DNA|[Info](http://rosalind.info/problems/subs/)|
 | CONS    | Consensus and Profile|[Info](http://rosalind.info/problems/cons/)|
