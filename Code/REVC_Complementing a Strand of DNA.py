@@ -22,3 +22,5 @@ def revc(dna):
     return cstrand
 
 print(revc(myfile))
+
+myfile.close()
