@@ -5,9 +5,11 @@ def calcpoints(seq1, seq2):
     """Counts symbol substitutions between 2 strings (Hamming distance)"""
 
     count = 0
+    
     for ind in range(len(seq1)):
         if seq1[ind] != seq2[ind]:
             count += 1
+            
     return count
 
 with open('../Files/rosalind_bio_HAMM.txt', 'r') as myfile:
