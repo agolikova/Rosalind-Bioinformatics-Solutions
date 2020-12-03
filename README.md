@@ -66,3 +66,4 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|
 | RNAS    | Wobble Bonding and RNA Secondary Structures|[Info](http://rosalind.info/problems/rnas/)|
 | GLOB    | Global Alignment with Scoring Matrix|[Info](http://rosalind.info/problems/glob/)|
+| PRSM    | Matching a Spectrum to a Protein|[Info](http://rosalind.info/problems/prsm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PRSM_Matching%20a%20Spectrum%20to%20a%20Protein.py)|
