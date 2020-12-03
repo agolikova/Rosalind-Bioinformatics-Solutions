@@ -18,7 +18,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | PROT    | Translating RNA into Protein|[Info](http://rosalind.info/problems/prot/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PROT_Translating%20RNA%20into%20Protein.py)|
 | SUBS    | Finding a Motif in DNA|[Info](http://rosalind.info/problems/subs/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SUBS_Finding%20a%20Motif%20in%20DNA.py)|
 | CONS    | Consensus and Profile|[Info](http://rosalind.info/problems/cons/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CONS_Consensus%20and%20profile.py)|
-| FIBD    | Mortal Fibonacci Rabbits|[Info](http://rosalind.info/problems/fibd/)|
+| FIBD    | Mortal Fibonacci Rabbits|[Info](http://rosalind.info/problems/fibd/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FIBD_Mortal%20Fibonacci%20Rabbits.py)|
 | GRPH    | Overlap Graphs|[Info](http://rosalind.info/problems/grph/)|
 | IEV     | Calculating Expected Offspring|[Info](http://rosalind.info/problems/iev/)|
 | LCSM    | Finding a Shared Motif|[Info](http://rosalind.info/problems/lcsm/)|
