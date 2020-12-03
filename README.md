@@ -15,7 +15,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | GC      | Computing GC Content|[Info](http://rosalind.info/problems/gc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/GC_Computing%20GC%20Content.py)|
 | HAMM    | Counting Point Mutations|[Info](http://rosalind.info/problems/hamm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/HAMM_Counting%20point%20mutations.py)|
 | IPRB    | Mendel's First Law|[Info](http://rosalind.info/problems/iprb/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/IPRB_Mendel's%20first%20law.py)|
-| PROT    | Translating RNA into Protein|[Info](http://rosalind.info/problems/prot/)|
+| PROT    | Translating RNA into Protein|[Info](http://rosalind.info/problems/prot/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PROT_Translating%20RNA%20into%20Protein.py)|
 | SUBS    | Finding a Motif in DNA|[Info](http://rosalind.info/problems/subs/)|
 | CONS    | Consensus and Profile|[Info](http://rosalind.info/problems/cons/)|
 | FIBD    | Mortal Fibonacci Rabbits|[Info](http://rosalind.info/problems/fibd/)|
