@@ -62,6 +62,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|
 | CONV    | Comparing Spectra with the Spectral Convolution|[Info](http://rosalind.info/problems/conv/)|
 | CTBL    | Creating a Character Table|[Info](http://rosalind.info/problems/ctbl/)|
+| DBRU    | Constructing a De Bruijn Graph|[Info](http://rosalind.info/problems/dbru/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/DBRU_Constructing%20a%20De%20Bruijn%20Graph.py)|
 | EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
 | FULL    | Inferring Peptide from Full Spectrum|[Info](http://rosalind.info/problems/full/)|
 | NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|
