@@ -1,9 +1,23 @@
 #Given: DNA string s of length at most 1000 bp
 #Return: The reverse complement of s
 
-myfile = open('../Files/rosalind_bio_REVC.txt', 'r')
-myfile = myfile.read()
+with open('../Files/rosalind_bio_REVC.txt', 'r') as myfile:
+    mydna = myfile.read()
+   
+#OPTION 1
+from Bio.Seq import Seq
 
+def revc(sequence):
+    """Return reverse complement of given DNA strand"""
+
+    dna = Seq(sequence)
+    cstrand = dna.reverse_complement()
+
+    return cstrand
+
+print(revc(mydna))
+
+#OPTION2
 def revc(dna):
     """Return reverse complement of given DNA strand"""
 
@@ -21,4 +35,4 @@ def revc(dna):
 
     return cstrand
 
-print(revc(myfile))
+print(revc(mydna))
