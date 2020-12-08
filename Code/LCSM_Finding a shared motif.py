@@ -1,4 +1,4 @@
-#Given: A collection of k DNA strings of length at most 1 kbp each in FASTA format
+#Given: A collection of DNA strings of length at most 1 kbp each in FASTA format
 #Return: A longest common substring of the collection
 
 from Bio import SeqIO
@@ -17,6 +17,7 @@ def common_motif(sequences):
 
     for i in range(len(short_seq)):
         for j in range(i, len(short_seq)):
+            
             m = short_seq[i:j + 1]
             found = False
 
