@@ -21,8 +21,8 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | FIBD    | Mortal Fibonacci Rabbits|[Info](http://rosalind.info/problems/fibd/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FIBD_Mortal%20Fibonacci%20Rabbits.py)|
 | GRPH    | Overlap Graphs|[Info](http://rosalind.info/problems/grph/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/GRPH_Overlap%20graphs.py)|
 | IEV     | Calculating Expected Offspring|[Info](http://rosalind.info/problems/iev/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/IEV_Calculating%20expected%20offspring.py)|
-| LCSM    | Finding a Shared Motif|[Info](http://rosalind.info/problems/lcsm/)|
-| LIA     | Independent Alleles|[Info](http://rosalind.info/problems/lia/)|
+| LCSM    | Finding a Shared Motif|[Info](http://rosalind.info/problems/lcsm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LCSM_Finding%20a%20shared%20motif.py)|
+| LIA     | Independent Alleles|[Info](http://rosalind.info/problems/lia/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LIA_Independent%20alleles.py)|
 | MPRT    | Finding a Protein Motif|[Info](http://rosalind.info/problems/mprt/)|
 | MRNA    | Inferring mRNA from Protein|[Info](http://rosalind.info/problems/mrna/)|
 | ORF     | Open Reading Frames|[Info](http://rosalind.info/problems/orf/)|
