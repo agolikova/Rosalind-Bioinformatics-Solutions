@@ -24,7 +24,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | LCSM    | Finding a Shared Motif|[Info](http://rosalind.info/problems/lcsm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LCSM_Finding%20a%20shared%20motif.py)|
 | LIA     | Independent Alleles|[Info](http://rosalind.info/problems/lia/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LIA_Independent%20alleles.py)|
 | MPRT    | Finding a Protein Motif|[Info](http://rosalind.info/problems/mprt/)|
-| MRNA    | Inferring mRNA from Protein|[Info](http://rosalind.info/problems/mrna/)|
+| MRNA    | Inferring mRNA from Protein|[Info](http://rosalind.info/problems/mrna/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MRNA_Inferring%20mRNA%20from%20Protein.py)|
 | ORF     | Open Reading Frames|[Info](http://rosalind.info/problems/orf/)|
 | PERM    | Enumerating Gene Orders|[Info](http://rosalind.info/problems/perm/)|
 | PRTM    | Calculating Protein Mass|[Info](http://rosalind.info/problems/prtm/)|
