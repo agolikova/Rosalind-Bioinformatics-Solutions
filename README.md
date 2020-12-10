@@ -26,7 +26,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | MPRT    | Finding a Protein Motif|[Info](http://rosalind.info/problems/mprt/)|
 | MRNA    | Inferring mRNA from Protein|[Info](http://rosalind.info/problems/mrna/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MRNA_Inferring%20mRNA%20from%20Protein.py)|
 | ORF     | Open Reading Frames|[Info](http://rosalind.info/problems/orf/)|
-| PERM    | Enumerating Gene Orders|[Info](http://rosalind.info/problems/perm/)|
+| PERM    | Enumerating Gene Orders|[Info](http://rosalind.info/problems/perm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PERM_Enumerating%20gene%20orders.py)|
 | PRTM    | Calculating Protein Mass|[Info](http://rosalind.info/problems/prtm/)|
 | REVP    | Locating Restriction Sites|[Info](http://rosalind.info/problems/revp/)|
 | SPLC    | RNA Splicing|[Info](http://rosalind.info/problems/splc/)|
