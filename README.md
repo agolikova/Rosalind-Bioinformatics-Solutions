@@ -66,7 +66,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
 | FULL    | Inferring Peptide from Full Spectrum|[Info](http://rosalind.info/problems/full/)|
 | NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|
-| RNAS    | Wobble Bonding and RNA Secondary Structures|[Info](http://rosalind.info/problems/rnas/)|
+| RNAS    | Wobble Bonding and RNA Secondary Structures|[Info](http://rosalind.info/problems/rnas/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/RNAS_Wobble%20Bonding%20and%20RNA%20Secondary%20Structures.py)|
 | CSTR    | Creating a Character Table from Genetic Strings|[Info](http://rosalind.info/problems/cstr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CSTR_Creating%20a%20Character%20Table%20from%20Genetic%20Strings.py)|
 | GLOB    | Global Alignment with Scoring Matrix|[Info](http://rosalind.info/problems/glob/)|
 | PRSM    | Matching a Spectrum to a Protein|[Info](http://rosalind.info/problems/prsm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PRSM_Matching%20a%20Spectrum%20to%20a%20Protein.py)|
