@@ -30,7 +30,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | PRTM    | Calculating Protein Mass|[Info](http://rosalind.info/problems/prtm/)|
 | REVP    | Locating Restriction Sites|[Info](http://rosalind.info/problems/revp/)|
 | SPLC    | RNA Splicing|[Info](http://rosalind.info/problems/splc/)|
-| LEXF    | Enumerating k-mers Lexicographically|[Info](http://rosalind.info/problems/lexf/)|
+| LEXF    | Enumerating k-mers Lexicographically|[Info](http://rosalind.info/problems/lexf/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LEXF_Enumerating%20k-mers%20lexicographically.py)|
 | LGIS    | Longest Increasing Subsequence|[Info](http://rosalind.info/problems/lgis/)|
 | LONG    | Genome Assembly as Shortest Superstring|[Info](http://rosalind.info/problems/long/)|
 | PMCH    | Perfect Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/pmch/)|
