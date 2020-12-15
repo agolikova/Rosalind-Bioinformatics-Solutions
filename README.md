@@ -41,7 +41,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | TRAN    | Transitions and Transversions|[Info](http://rosalind.info/problems/tran/)|
 | TREE    | Completing a Tree|[Info](http://rosalind.info/problems/tree/)|
 | CAT     | Catalan Numbers and RNA Secondary Structures|[Info](http://rosalind.info/problems/cat/)|
-| CORR    | Error Correction in Reads|[Info](http://rosalind.info/problems/corr/)|
+| CORR    | Error Correction in Reads|[Info](http://rosalind.info/problems/corr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CORR_Error%20Correction%20in%20Reads.py)|
 | INOD    | Counting Phylogenetic Ancestors|[Info](http://rosalind.info/problems/inod/)|
 | KMER    | k-Mer Composition|[Info](http://rosalind.info/problems/kmer/)|
 | KMP     | Speeding Up Motif Finding|[Info](http://rosalind.info/problems/kmp/)|
