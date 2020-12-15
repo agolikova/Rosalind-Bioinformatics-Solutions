@@ -64,7 +64,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | CTBL    | Creating a Character Table|[Info](http://rosalind.info/problems/ctbl/)|
 | DBRU    | Constructing a De Bruijn Graph|[Info](http://rosalind.info/problems/dbru/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/DBRU_Constructing%20a%20De%20Bruijn%20Graph.py)|
 | EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
-| FULL    | Inferring Peptide from Full Spectrum|[Info](http://rosalind.info/problems/full/)|
+| FULL    | Inferring Peptide from Full Spectrum|[Info](http://rosalind.info/problems/full/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FULL_Inferring%20Peptide%20from%20Full%20Spectrum.py)|
 | NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|
 | RNAS    | Wobble Bonding and RNA Secondary Structures|[Info](http://rosalind.info/problems/rnas/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/RNAS_Wobble%20Bonding%20and%20RNA%20Secondary%20Structures.py)|
 | CSTR    | Creating a Character Table from Genetic Strings|[Info](http://rosalind.info/problems/cstr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CSTR_Creating%20a%20Character%20Table%20from%20Genetic%20Strings.py)|
