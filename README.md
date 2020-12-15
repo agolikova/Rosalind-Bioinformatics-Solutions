@@ -58,7 +58,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | NWCK    | Distances in Trees|[Info](http://rosalind.info/problems/nwck/)|
 | SCSP    | Interleaving Two Motifs|[Info](http://rosalind.info/problems/scsp/)|
 | SETO    | Introduction to Set Operations|[Info](http://rosalind.info/problems/seto/)|
-| SPEC    | Inferring Protein from Spectrum|[Info](http://rosalind.info/problems/spec/)|
+| SPEC    | Inferring Protein from Spectrum|[Info](http://rosalind.info/problems/spec/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SPEC_Inferring%20Protein%20from%20Spectrum.py)|
 | TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|
 | CONV    | Comparing Spectra with the Spectral Convolution|[Info](http://rosalind.info/problems/conv/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CONV_Comparing%20Spectra%20with%20the%20Spectral%20Convolution.py)|
 | CTBL    | Creating a Character Table|[Info](http://rosalind.info/problems/ctbl/)|
