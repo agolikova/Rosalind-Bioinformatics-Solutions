@@ -42,7 +42,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | TREE    | Completing a Tree|[Info](http://rosalind.info/problems/tree/)|
 | CAT     | Catalan Numbers and RNA Secondary Structures|[Info](http://rosalind.info/problems/cat/)|
 | CORR    | Error Correction in Reads|[Info](http://rosalind.info/problems/corr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CORR_Error%20Correction%20in%20Reads.py)|
-| INOD    | Counting Phylogenetic Ancestors|[Info](http://rosalind.info/problems/inod/)|
+| INOD    | Counting Phylogenetic Ancestors|[Info](http://rosalind.info/problems/inod/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/INOD_Counting%20Phylogenetic%20Ancestors.py)|
 | KMER    | k-Mer Composition|[Info](http://rosalind.info/problems/kmer/)|
 | KMP     | Speeding Up Motif Finding|[Info](http://rosalind.info/problems/kmp/)|
 | LCSQ    | Finding a Shared Spliced Motif|[Info](http://rosalind.info/problems/lcsq/)|
