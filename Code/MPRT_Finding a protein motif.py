@@ -23,21 +23,21 @@ def find_motif(UniProt_ID_list):
         with open('seq_file.fasta', 'a') as text_file:
             text_file.write(fasta)
 
-    #Search FASTA sequences for N-glycosylation motif
+    #Search FASTA sequences for N-glycosylation motif, ?= used to include overlapping motifs
     handle = open('seq_file.fasta', 'r')
     motifs = re.compile(r'(?=(N[^P][ST][^P]))')
     count = 0
 
     for record in SeqIO.parse(handle, 'fasta'):
         sequence = record.seq
-        positions = []
+        locations = []
         for m in re.finditer(motifs, str(sequence)):
-            positions.append(m.start() + 1)
+            locations.append(m.start() + 1)
 
         #Print indexes where motif found (if any)
-        if len(positions) > 0:
+        if len(locations) > 0:
             print(UniProt_ID_list[count])
-            print(' '.join(map(str, positions)))
+            print(' '.join(map(str, locations)))
 
         count += 1
 
