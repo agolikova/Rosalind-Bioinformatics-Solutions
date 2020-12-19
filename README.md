@@ -23,7 +23,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | IEV     | Calculating Expected Offspring|[Info](http://rosalind.info/problems/iev/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/IEV_Calculating%20expected%20offspring.py)|
 | LCSM    | Finding a Shared Motif|[Info](http://rosalind.info/problems/lcsm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LCSM_Finding%20a%20shared%20motif.py)|
 | LIA     | Independent Alleles|[Info](http://rosalind.info/problems/lia/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LIA_Independent%20alleles.py)|
-| MPRT    | Finding a Protein Motif|[Info](http://rosalind.info/problems/mprt/)|
+| MPRT    | Finding a Protein Motif|[Info](http://rosalind.info/problems/mprt/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MPRT_Finding%20a%20protein%20motif.py)|
 | MRNA    | Inferring mRNA from Protein|[Info](http://rosalind.info/problems/mrna/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MRNA_Inferring%20mRNA%20from%20Protein.py)|
 | ORF     | Open Reading Frames|[Info](http://rosalind.info/problems/orf/)|
 | PERM    | Enumerating Gene Orders|[Info](http://rosalind.info/problems/perm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PERM_Enumerating%20gene%20orders.py)|
