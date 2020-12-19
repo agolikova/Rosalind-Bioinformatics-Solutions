@@ -4,7 +4,7 @@
 #N-glycosylation motif: N{P}[ST]{P}
 #[] = either/or, {} = any except
 
-from urllib.request import urlopen
+from urllib.request import urlopen #module for fetching URLs
 from Bio import SeqIO
 import re #regular expression operations module
 
