@@ -63,19 +63,19 @@ def find_all_paths(graph, start, end, path=[]):
 
     return paths
 
-def get_peptide(l, graph, edges):
+def get_peptide(L, graph, edges):
     """Returns longest protein string that matches spectrum graph of L"""
 
     all_peptide_paths = []
 
-    for i in range(len(l)-1):
-        for j in range(i+1, len(l)):
-            all_paths = find_all_paths(graph, l[i], l[j], path=[])
+    for i in range(len(L)-1):
+        for j in range(i+1, len(L)):
+            all_paths = find_all_paths(graph, L[i], L[j], path=[])
             all_peptide_paths.extend(all_paths)
 
     output = []
 
-    for peptide_paths in  all_peptide_paths:
+    for peptide_paths in all_peptide_paths:
         peptide = [""]
 
         for i in range(len(peptide_paths) - 1):
