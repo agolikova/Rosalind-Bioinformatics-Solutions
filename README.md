@@ -25,7 +25,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | LIA     | Independent Alleles|[Info](http://rosalind.info/problems/lia/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LIA_Independent%20alleles.py)|
 | MPRT    | Finding a Protein Motif|[Info](http://rosalind.info/problems/mprt/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MPRT_Finding%20a%20protein%20motif.py)|
 | MRNA    | Inferring mRNA from Protein|[Info](http://rosalind.info/problems/mrna/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MRNA_Inferring%20mRNA%20from%20Protein.py)|
-| ORF     | Open Reading Frames|[Info](http://rosalind.info/problems/orf/)|
+| ORF     | Open Reading Frames|[Info](http://rosalind.info/problems/orf/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/ORF_Open%20Reading%20Frames.py)|
 | PERM    | Enumerating Gene Orders|[Info](http://rosalind.info/problems/perm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PERM_Enumerating%20gene%20orders.py)|
 | PRTM    | Calculating Protein Mass|[Info](http://rosalind.info/problems/prtm/)|
 | REVP    | Locating Restriction Sites|[Info](http://rosalind.info/problems/revp/)|
