@@ -28,7 +28,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | ORF     | Open Reading Frames|[Info](http://rosalind.info/problems/orf/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/ORF_Open%20Reading%20Frames.py)|
 | PERM    | Enumerating Gene Orders|[Info](http://rosalind.info/problems/perm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PERM_Enumerating%20gene%20orders.py)|
 | PRTM    | Calculating Protein Mass|[Info](http://rosalind.info/problems/prtm/)|
-| REVP    | Locating Restriction Sites|[Info](http://rosalind.info/problems/revp/)|
+| REVP    | Locating Restriction Sites|[Info](http://rosalind.info/problems/revp/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/REVP_Locating%20Restriction%20Sites.py)|
 | SPLC    | RNA Splicing|[Info](http://rosalind.info/problems/splc/)|
 | LEXF    | Enumerating k-mers Lexicographically|[Info](http://rosalind.info/problems/lexf/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LEXF_Enumerating%20k-mers%20lexicographically.py)|
 | LGIS    | Longest Increasing Subsequence|[Info](http://rosalind.info/problems/lgis/)|
