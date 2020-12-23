@@ -29,7 +29,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | PERM    | Enumerating Gene Orders|[Info](http://rosalind.info/problems/perm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PERM_Enumerating%20gene%20orders.py)|
 | PRTM    | Calculating Protein Mass|[Info](http://rosalind.info/problems/prtm/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PRTM_Calculating%20Protein%20Mass.py)|
 | REVP    | Locating Restriction Sites|[Info](http://rosalind.info/problems/revp/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/REVP_Locating%20Restriction%20Sites.py)|
-| SPLC    | RNA Splicing|[Info](http://rosalind.info/problems/splc/)|
+| SPLC    | RNA Splicing|[Info](http://rosalind.info/problems/splc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SPLC_RNA%20splicing.py)|
 | LEXF    | Enumerating k-mers Lexicographically|[Info](http://rosalind.info/problems/lexf/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LEXF_Enumerating%20k-mers%20lexicographically.py)|
 | LGIS    | Longest Increasing Subsequence|[Info](http://rosalind.info/problems/lgis/)|
 | LONG    | Genome Assembly as Shortest Superstring|[Info](http://rosalind.info/problems/long/)|
