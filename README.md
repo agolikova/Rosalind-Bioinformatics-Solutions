@@ -32,7 +32,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | SPLC    | RNA Splicing|[Info](http://rosalind.info/problems/splc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SPLC_RNA%20splicing.py)|
 | LEXF    | Enumerating k-mers Lexicographically|[Info](http://rosalind.info/problems/lexf/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LEXF_Enumerating%20k-mers%20lexicographically.py)|
 | LGIS    | Longest Increasing Subsequence|[Info](http://rosalind.info/problems/lgis/)|
-| LONG    | Genome Assembly as Shortest Superstring|[Info](http://rosalind.info/problems/long/)|
+| LONG    | Genome Assembly as Shortest Superstring|[Info](http://rosalind.info/problems/long/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LONG_Genome%20Assembly%20as%20Shortest%20Superstring.py)|
 | PMCH    | Perfect Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/pmch/)|
 | PPER    | Partial Permutations|[Info](http://rosalind.info/problems/pper/)|
 | PROB    | Introduction to Random Strings|[Info](http://rosalind.info/problems/prob/)|
