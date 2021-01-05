@@ -2,7 +2,7 @@
 #Return: Total number of partial permutations P(n,k), modulo 1,000,000
 
 def permcalculator(n, k):
-    """Returns total number of partial permutations o given integers P(n,k), modulo 1,000,000"""
+    """Returns total number of partial permutations of given integers P(n,k), modulo 1,000,000"""
 
     #FASTER VARIANT
     #Count the number of choices there are in choosing k numbers out of the set (1,2,3,...,n)
