@@ -34,7 +34,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | LGIS    | Longest Increasing Subsequence|[Info](http://rosalind.info/problems/lgis/)|
 | LONG    | Genome Assembly as Shortest Superstring|[Info](http://rosalind.info/problems/long/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LONG_Genome%20Assembly%20as%20Shortest%20Superstring.py)|
 | PMCH    | Perfect Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/pmch/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PMCH_Perfect%20Matchings%20and%20RNA%20Secondary%20Structures.py)|
-| PPER    | Partial Permutations|[Info](http://rosalind.info/problems/pper/)|
+| PPER    | Partial Permutations|[Info](http://rosalind.info/problems/pper/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PPER_Partial%20permutations.py)|
 | PROB    | Introduction to Random Strings|[Info](http://rosalind.info/problems/prob/)|
 | SIGN    | Enumerating Oriented Gene Orderings|[Info](http://rosalind.info/problems/sign/)|
 | SSEQ    | Finding a Spliced Motif|[Info](http://rosalind.info/problems/sseq/)|
