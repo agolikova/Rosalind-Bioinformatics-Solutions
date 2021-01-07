@@ -17,8 +17,8 @@ def random_strings(sequence, GC_array):
 
     probabilities = []
 
-    #Calculate probability of G = probability of C = %GC/2
-    #Calculate probability of A = probability of T = (1-%GC)/2
+    #Calculate probability of G = probability of C = %GC / 2
+    #Calculate probability of A = probability of T = (1 - %GC) / 2
 
     #For each consecutive base in provided sequence:
     #1. Convert total probability to logarithm using math.log(probability, base=10)
@@ -33,8 +33,8 @@ def random_strings(sequence, GC_array):
 
 with open('../Files/rosalind_bio_PROB.txt', 'r') as myfile:
     data = myfile.read().splitlines()
-    seq = data[0]
+    dna = data[0]
     array = data[1].split()
     GC = [float(x) for x in array]
 
-random_strings(seq, GC)
+random_strings(dna, GC)
