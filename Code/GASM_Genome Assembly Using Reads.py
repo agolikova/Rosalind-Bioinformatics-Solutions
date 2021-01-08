@@ -15,7 +15,7 @@ def get_cyclic_superstring(kmers):
 		for kmer in kmers:
 			for i in range(kval):
 				DBG_edge_elements.add(kmer[i:len(kmer) + i - kval + 1])
-				DBG_edge_elements.add((Seq(kmer[i:len(kmer) - kval + i + 1])).reverse_complement())
+				DBG_edge_elements.add(str((Seq(kmer[i:len(kmer) - kval + i + 1])).reverse_complement()))
 
 		#Create edges of graph
 		k = len(list(DBG_edge_elements)[0])
