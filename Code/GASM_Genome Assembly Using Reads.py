@@ -6,8 +6,8 @@ from Bio.Seq import Seq
 def get_cyclic_superstring(kmers):
 	"""Returns cyclic superstring of min length containing every given kmer/its reverse complement"""
 
-	#Iterate k values until the one which gives 2 directed cycles is found
-	for kval in range(1,len(kmers[0])):
+	#Iterate over k values until the one which gives 2 directed cycles is found
+	for kval in range(1, len(kmers[0])):
 
 		#Construct de Bruijn Graph
 		DBG_edge_elements = set()
@@ -40,7 +40,7 @@ def get_cyclic_superstring(kmers):
 		if len(DBG_edges) == 0:
 			break
 
-	#Return output
+	#Return cyclic superstring
 	return cyclics[0]
 
 with open('../Files/rosalind_bio_GASM.txt', 'r') as myfile:
