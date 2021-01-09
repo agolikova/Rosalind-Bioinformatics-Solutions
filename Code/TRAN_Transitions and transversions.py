@@ -1,5 +1,6 @@
 #Given: Two DNA strings s1 and s2 of equal length (at most 1 kbp)
 #Return: The transition/transversion ratio R(s1,s2)
+#Transitions = C ↔ T or A ↔ G, transversions = all other substitutions
 
 from Bio import SeqIO
 
