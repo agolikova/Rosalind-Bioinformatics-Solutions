@@ -37,7 +37,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | PPER    | Partial Permutations|[Info](http://rosalind.info/problems/pper/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PPER_Partial%20permutations.py)|
 | PROB    | Introduction to Random Strings|[Info](http://rosalind.info/problems/prob/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PROB_Introduction%20to%20Random%20Strings.py)|
 | SIGN    | Enumerating Oriented Gene Orderings|[Info](http://rosalind.info/problems/sign/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SIGN_Enumerating%20oriented%20gene%20orderings.py)|
-| SSEQ    | Finding a Spliced Motif|[Info](http://rosalind.info/problems/sseq/)|
+| SSEQ    | Finding a Spliced Motif|[Info](http://rosalind.info/problems/sseq/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SSEQ_Finding%20a%20spliced%20motif.py)|
 | TRAN    | Transitions and Transversions|[Info](http://rosalind.info/problems/tran/)|
 | TREE    | Completing a Tree|[Info](http://rosalind.info/problems/tree/)|
 | CAT     | Catalan Numbers and RNA Secondary Structures|[Info](http://rosalind.info/problems/cat/)|
