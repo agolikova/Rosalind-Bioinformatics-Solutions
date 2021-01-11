@@ -39,7 +39,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | SIGN    | Enumerating Oriented Gene Orderings|[Info](http://rosalind.info/problems/sign/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SIGN_Enumerating%20oriented%20gene%20orderings.py)|
 | SSEQ    | Finding a Spliced Motif|[Info](http://rosalind.info/problems/sseq/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SSEQ_Finding%20a%20spliced%20motif.py)|
 | TRAN    | Transitions and Transversions|[Info](http://rosalind.info/problems/tran/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/TRAN_Transitions%20and%20transversions.py)|
-| TREE    | Completing a Tree|[Info](http://rosalind.info/problems/tree/)|
+| TREE    | Completing a Tree|[Info](http://rosalind.info/problems/tree/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/TREE_Completing%20a%20tree.py)|
 | CAT     | Catalan Numbers and RNA Secondary Structures|[Info](http://rosalind.info/problems/cat/)|
 | CORR    | Error Correction in Reads|[Info](http://rosalind.info/problems/corr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CORR_Error%20Correction%20in%20Reads.py)|
 | INOD    | Counting Phylogenetic Ancestors|[Info](http://rosalind.info/problems/inod/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/INOD_Counting%20Phylogenetic%20Ancestors.py)|
