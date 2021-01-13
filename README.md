@@ -31,7 +31,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | REVP    | Locating Restriction Sites|[Info](http://rosalind.info/problems/revp/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/REVP_Locating%20Restriction%20Sites.py)|
 | SPLC    | RNA Splicing|[Info](http://rosalind.info/problems/splc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SPLC_RNA%20splicing.py)|
 | LEXF    | Enumerating k-mers Lexicographically|[Info](http://rosalind.info/problems/lexf/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LEXF_Enumerating%20k-mers%20lexicographically.py)|
-| LGIS    | Longest Increasing Subsequence|[Info](http://rosalind.info/problems/lgis/)|
+| LGIS    | Longest Increasing Subsequence|[Info](http://rosalind.info/problems/lgis/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LGIS_Longest%20Increasing%20Subsequence.py)|
 | LONG    | Genome Assembly as Shortest Superstring|[Info](http://rosalind.info/problems/long/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LONG_Genome%20Assembly%20as%20Shortest%20Superstring.py)|
 | PMCH    | Perfect Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/pmch/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PMCH_Perfect%20Matchings%20and%20RNA%20Secondary%20Structures.py)|
 | PPER    | Partial Permutations|[Info](http://rosalind.info/problems/pper/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PPER_Partial%20permutations.py)|
