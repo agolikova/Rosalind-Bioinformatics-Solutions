@@ -1,10 +1,11 @@
 #Given: DNA string s in FASTA format
 #Return: 4-mer composition of s
-#k-mer composition of s can be represented by array A for which A[m] denotes number of times mth k-mer (with respect to the lexicographic order) appears in s
-#Requires O(n) time where n is the length of the DNA string
 
-#e.g. all possible k-mers of ACGT are AAAA,AAAC,AAAG,AAAT ... TTTT
-#Regardless of given seq, possible 4-mers always the same for DNA
+#k-mer composition of s can be represented by array A for which A[m] denotes number of times mth k-mer (with respect to lexicographic order) appears in s
+#Requires O(n) time where n is length of DNA string
+
+#e.g. all possible k-mers of ACGT are AAAA, AAAC, AAAG, AAAT ... TTTT
+#Regardless of given seq, possible 4-mers always same for DNA
 
 from Bio import SeqIO
 import itertools
