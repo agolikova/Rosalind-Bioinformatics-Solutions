@@ -8,7 +8,7 @@ cache = {'': 1, 'A': 0, 'C': 0, 'G': 0, 'U': 0, 'AA': 0, 'AC': 0, 'AG': 0, 'AU':
          'CG': 1, 'CU': 0, 'GA': 0, 'GC': 1, 'GG': 0, 'GU': 0, 'UA': 1, 'UC': 0, 'UG': 0, 'UU': 0}
 
 def countRNAstructures(sequence):
-    """ Returns total number of non-crossing perfect matchings of basepair edges in bonding graph of given seq, modulo 1,000,000"""
+    """Returns total number of non-crossing perfect matchings of basepair edges in bonding graph of given seq, modulo 1,000,000"""
 
     if sequence not in cache:
         temp = []
