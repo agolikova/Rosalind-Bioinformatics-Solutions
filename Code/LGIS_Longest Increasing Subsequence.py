@@ -1,6 +1,6 @@
 #Given: Positive integer n≤10000 followed by a permutation π of length n
 #Return: Longest increasing subsequence of π, followed by a longest decreasing subsequence of π
-#NB a subsequence of a permutation is a collection of elements of the permutation in the order that they appear
+#NB a subsequence of a permutation is a collection of elements of the permutation in the order that they appear, not necessarily contiguously 
 
 def subsequence(seq):
     """Returns longest increasing subsequence of given seq"""
