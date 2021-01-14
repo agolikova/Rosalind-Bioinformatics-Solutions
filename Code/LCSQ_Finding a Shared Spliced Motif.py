@@ -1,5 +1,5 @@
 #Given: Two DNA strings s and t in FASTA format
-#Return: A longest common subsequence of s and t (longest non-contiguous collection of nt's shared by both seqs)
+#Return: A longest common subsequence of s and t (longest non-contiguous collection of nucleotides shared by both seqs)
 
 from Bio import SeqIO
 
