@@ -44,7 +44,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | CORR    | Error Correction in Reads|[Info](http://rosalind.info/problems/corr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CORR_Error%20Correction%20in%20Reads.py)|
 | INOD    | Counting Phylogenetic Ancestors|[Info](http://rosalind.info/problems/inod/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/INOD_Counting%20Phylogenetic%20Ancestors.py)|
 | KMER    | k-Mer Composition|[Info](http://rosalind.info/problems/kmer/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/KMER_k-Mer%20Composition.py)|
-| KMP     | Speeding Up Motif Finding|[Info](http://rosalind.info/problems/kmp/)|
+| KMP     | Speeding Up Motif Finding|[Info](http://rosalind.info/problems/kmp/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/KMP_Speeding%20Up%20Motif%20Finding.py)|
 | LCSQ    | Finding a Shared Spliced Motif|[Info](http://rosalind.info/problems/lcsq/)|
 | LEXV    | Ordering Strings of Varying Length Lexicographically|[Info](http://rosalind.info/problems/lexv/)|
 | MMCH    | Maximum Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/mmch/)|
