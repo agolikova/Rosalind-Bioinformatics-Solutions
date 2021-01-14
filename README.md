@@ -45,7 +45,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | INOD    | Counting Phylogenetic Ancestors|[Info](http://rosalind.info/problems/inod/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/INOD_Counting%20Phylogenetic%20Ancestors.py)|
 | KMER    | k-Mer Composition|[Info](http://rosalind.info/problems/kmer/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/KMER_k-Mer%20Composition.py)|
 | KMP     | Speeding Up Motif Finding|[Info](http://rosalind.info/problems/kmp/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/KMP_Speeding%20Up%20Motif%20Finding.py)|
-| LCSQ    | Finding a Shared Spliced Motif|[Info](http://rosalind.info/problems/lcsq/)|
+| LCSQ    | Finding a Shared Spliced Motif|[Info](http://rosalind.info/problems/lcsq/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LCSQ_Finding%20a%20Shared%20Spliced%20Motif.py)|
 | LEXV    | Ordering Strings of Varying Length Lexicographically|[Info](http://rosalind.info/problems/lexv/)|
 | MMCH    | Maximum Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/mmch/)|
 | PDST    | Creating a Distance Matrix|[Info](http://rosalind.info/problems/pdst/)|
