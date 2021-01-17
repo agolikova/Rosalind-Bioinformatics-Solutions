@@ -4,10 +4,6 @@
 from math import factorial
 from Bio import SeqIO
 
-#Two separate complete graphs, one for AU bonding and one for GC bonding
-#Can describe number of perfect matchings for each graph, if n1 = nr of A's and n2 = nr of G's, as n1! and n2!
-#Total amount of perfect matchings for two graphs combined = n1! * n2!
-
 def nPr(n, r):
     """Returns total no. of possible combinations of 2 nucleotides using given number of occurrences"""
 
