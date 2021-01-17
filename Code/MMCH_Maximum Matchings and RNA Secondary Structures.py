@@ -13,7 +13,7 @@ def nPr(n, r):
     return factorial(n)//factorial(n-r)
 
 def max_matchings(sequence):
-    """Returns total possible number of maximum matchings of basepair edges in bonding graph of given sequence"""
+    """Returns total possible no. of maximum matchings of basepair edges in bonding graph of given sequence"""
 
     AU = []
     for nt in "AU":
@@ -25,7 +25,7 @@ def max_matchings(sequence):
 
     #1st A can pair with any U - once that pairing has been made, that pair of bases can be removed from pool and 2nd A can pair with any remaining U
     #Iterative process can continue until last remaining U/A has been paired & there is excess of As or Us left over
-    #Factorial-style combination problem
+    #Same process for GC pairing - factorial-style combination problem
 
     #Multiply no. of AU combos by no. of GC combos to get final solution
     matchings = nPr(max(AU), min(AU)) * nPr(max(GC), min(GC))
