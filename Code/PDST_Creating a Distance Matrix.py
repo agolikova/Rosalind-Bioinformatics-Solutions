@@ -1,11 +1,11 @@
 #Given: Collection of n (n≤10) DNA strings of equal length in FASTA
 #Return: Matrix D corresponding to p-distance on given strings
-#P-distance = proportion of corresponding symbols that differ between 2 seqs
+#p-distance = proportion of corresponding symbols that differ between 2 seqs
 
 from Bio import SeqIO
 
 def hamming(seq1, seq2):
-    """Returns Hamming distance between 2 given dna sequences of same length"""
+    """Returns Hamming distance between 2 given sequences of same length"""
 
     mutations = 0
 
