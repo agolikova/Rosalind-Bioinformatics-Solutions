@@ -48,7 +48,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | LCSQ    | Finding a Shared Spliced Motif|[Info](http://rosalind.info/problems/lcsq/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LCSQ_Finding%20a%20Shared%20Spliced%20Motif.py)|
 | LEXV    | Ordering Strings of Varying Length Lexicographically|[Info](http://rosalind.info/problems/lexv/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LEXV_Ordering%20Strings%20of%20Varying%20Length%20Lexicographically.py)|
 | MMCH    | Maximum Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/mmch/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MMCH_Maximum%20Matchings%20and%20RNA%20Secondary%20Structures.py)|
-| PDST    | Creating a Distance Matrix|[Info](http://rosalind.info/problems/pdst/)|
+| PDST    | Creating a Distance Matrix|[Info](http://rosalind.info/problems/pdst/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PDST_Creating%20a%20Distance%20Matrix.py)|
 | RSTR    | Matching Random Motifs|[Info](http://rosalind.info/problems/rstr/)|
 | SSET    | Counting Subsets|[Info](http://rosalind.info/problems/sset/)|
 | ASPC    | Introduction to Alternative Splicing|[Info](http://rosalind.info/problems/aspc/)|
