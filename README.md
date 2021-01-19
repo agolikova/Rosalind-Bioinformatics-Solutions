@@ -51,7 +51,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | PDST    | Creating a Distance Matrix|[Info](http://rosalind.info/problems/pdst/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PDST_Creating%20a%20Distance%20Matrix.py)|
 | RSTR    | Matching Random Motifs|[Info](http://rosalind.info/problems/rstr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/RSTR_Matching%20Random%20Motifs.py)|
 | SSET    | Counting Subsets|[Info](http://rosalind.info/problems/sset/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SSET_Counting%20subsets.py)|
-| ASPC    | Introduction to Alternative Splicing|[Info](http://rosalind.info/problems/aspc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SSET_Counting%20subsets.py)|
+| ASPC    | Introduction to Alternative Splicing|[Info](http://rosalind.info/problems/aspc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/ASPC_Introduction%20to%20Alternative%20Splicing.py)|
 | EDIT    | Edit Distance|[Info](http://rosalind.info/problems/edit/)|
 | EVAL    | Expected Number of Restriction Sites|[Info](http://rosalind.info/problems/eval/)|
 | MOTZ    | Motzkin Numbers and RNA Secondary Structures|[Info](http://rosalind.info/problems/motz/)|
