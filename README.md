@@ -50,7 +50,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | MMCH    | Maximum Matchings and RNA Secondary Structures|[Info](http://rosalind.info/problems/mmch/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MMCH_Maximum%20Matchings%20and%20RNA%20Secondary%20Structures.py)|
 | PDST    | Creating a Distance Matrix|[Info](http://rosalind.info/problems/pdst/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PDST_Creating%20a%20Distance%20Matrix.py)|
 | RSTR    | Matching Random Motifs|[Info](http://rosalind.info/problems/rstr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/RSTR_Matching%20Random%20Motifs.py)|
-| SSET    | Counting Subsets|[Info](http://rosalind.info/problems/sset/)|
+| SSET    | Counting Subsets|[Info](http://rosalind.info/problems/sset/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SSET_Counting%20subsets.py)|
 | ASPC    | Introduction to Alternative Splicing|[Info](http://rosalind.info/problems/aspc/)|
 | EDIT    | Edit Distance|[Info](http://rosalind.info/problems/edit/)|
 | EVAL    | Expected Number of Restriction Sites|[Info](http://rosalind.info/problems/eval/)|
