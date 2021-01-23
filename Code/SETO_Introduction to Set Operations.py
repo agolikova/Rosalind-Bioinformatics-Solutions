@@ -3,7 +3,7 @@
 
 def union(a, b):
     #return a | b
-    return A.union(B)
+    return a.union(b)
 
 def intersection(a, b):
     #return a & b
