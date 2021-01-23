@@ -7,7 +7,7 @@ def union(a, b):
 
 def intersection(a, b):
     #return a & b
-    return A.intersection(B)
+    return a.intersection(b)
 
 def set_difference(a, b):
     return a - b
