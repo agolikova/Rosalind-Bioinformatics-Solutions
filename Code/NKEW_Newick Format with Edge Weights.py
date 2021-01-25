@@ -1,4 +1,4 @@
-#Given: Collection of n weighted trees in Newick format, with each tree containing at most 200 nodes. Each tree Tk is followed by a pair of nodes xk and yk in Tk.
+#Given: Collection of n weighted trees in Newick format, with each tree containing at most 200 nodes. Each tree Tk is followed by a pair of nodes xk and yk in Tk
 #Return: Collection of n numbers, for which kth number represents distance between xk and yk in Tk
 
 import sys
