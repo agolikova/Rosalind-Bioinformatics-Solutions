@@ -56,7 +56,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | EVAL    | Expected Number of Restriction Sites|[Info](http://rosalind.info/problems/eval/)|
 | MOTZ    | Motzkin Numbers and RNA Secondary Structures|[Info](http://rosalind.info/problems/motz/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MOTZ_Motzkin%20Numbers%20and%20RNA%20Secondary%20Structures.py)|
 | NWCK    | Distances in Trees|[Info](http://rosalind.info/problems/nwck/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/NWCK_Distance%20in%20Trees.py)|
-| SCSP    | Interleaving Two Motifs|[Info](http://rosalind.info/problems/scsp/)|
+| SCSP    | Interleaving Two Motifs|[Info](http://rosalind.info/problems/scsp/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SCSP_Interleaving%20Two%20Motifs.py)|
 | SETO    | Introduction to Set Operations|[Info](http://rosalind.info/problems/seto/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SETO_Introduction%20to%20Set%20Operations.py)|
 | SPEC    | Inferring Protein from Spectrum|[Info](http://rosalind.info/problems/spec/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SPEC_Inferring%20Protein%20from%20Spectrum.py)|
 | TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|
