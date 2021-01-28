@@ -61,7 +61,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | SPEC    | Inferring Protein from Spectrum|[Info](http://rosalind.info/problems/spec/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SPEC_Inferring%20Protein%20from%20Spectrum.py)|
 | TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|
 | CONV    | Comparing Spectra with the Spectral Convolution|[Info](http://rosalind.info/problems/conv/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CONV_Comparing%20Spectra%20with%20the%20Spectral%20Convolution.py)|
-| CTBL    | Creating a Character Table|[Info](http://rosalind.info/problems/ctbl/)|
+| CTBL    | Creating a Character Table|[Info](http://rosalind.info/problems/ctbl/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CTBL_Creating%20a%20Character%20Table.py)|
 | DBRU    | Constructing a De Bruijn Graph|[Info](http://rosalind.info/problems/dbru/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/DBRU_Constructing%20a%20De%20Bruijn%20Graph.py)|
 | EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
 | FULL    | Inferring Peptide from Full Spectrum|[Info](http://rosalind.info/problems/full/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FULL_Inferring%20Peptide%20from%20Full%20Spectrum.py)|
