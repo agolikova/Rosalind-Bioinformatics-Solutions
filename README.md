@@ -53,7 +53,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | SSET    | Counting Subsets|[Info](http://rosalind.info/problems/sset/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SSET_Counting%20subsets.py)|
 | ASPC    | Introduction to Alternative Splicing|[Info](http://rosalind.info/problems/aspc/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/ASPC_Introduction%20to%20Alternative%20Splicing.py)|
 | EDIT    | Edit Distance|[Info](http://rosalind.info/problems/edit/)|
-| EVAL    | Expected Number of Restriction Sites|[Info](http://rosalind.info/problems/eval/)|
+| EVAL    | Expected Number of Restriction Sites|[Info](http://rosalind.info/problems/eval/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/EVAL_Expected%20Number%20of%20Restriction%20Sites.py)|
 | MOTZ    | Motzkin Numbers and RNA Secondary Structures|[Info](http://rosalind.info/problems/motz/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/MOTZ_Motzkin%20Numbers%20and%20RNA%20Secondary%20Structures.py)|
 | NWCK    | Distances in Trees|[Info](http://rosalind.info/problems/nwck/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/NWCK_Distance%20in%20Trees.py)|
 | SCSP    | Interleaving Two Motifs|[Info](http://rosalind.info/problems/scsp/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SCSP_Interleaving%20Two%20Motifs.py)|
