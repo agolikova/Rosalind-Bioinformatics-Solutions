@@ -1,4 +1,4 @@
-#Given: Positive integer n (≤ 1,000,000), DNA string s of even length (≤10), array A of length (≤20) containing numbers between 0 and 1
+#Given: Positive integer n (≤1,000,000), DNA string s of even length (≤10), array A of length (≤20) containing numbers between 0 and 1
 #Return: Array B having same length as A, where B[i] represents expected number of times that s will appear as substring of random DNA string t of length n where t is formed with GC-content A[i]
 
 def restriction_sites(length, dna, GC_array):
@@ -30,8 +30,8 @@ def restriction_sites(length, dna, GC_array):
 
 with open('../Files/rosalind_bio_EVAL.txt', 'r') as myfile:
     mylines = myfile.read().splitlines()
-    n = int(mylines[0]) #Positive integer ≤ 1,000,000
-    s = mylines[1] #DNA string ≤ 10
+    n = int(mylines[0]) #Positive integer
+    s = mylines[1] #DNA string
     A = [float (x) for x in mylines[2].split()] #Array of GC contents
 
 restriction_sites(n, s, A)
