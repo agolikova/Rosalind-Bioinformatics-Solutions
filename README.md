@@ -59,7 +59,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | SCSP    | Interleaving Two Motifs|[Info](http://rosalind.info/problems/scsp/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SCSP_Interleaving%20Two%20Motifs.py)|
 | SETO    | Introduction to Set Operations|[Info](http://rosalind.info/problems/seto/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SETO_Introduction%20to%20Set%20Operations.py)|
 | SPEC    | Inferring Protein from Spectrum|[Info](http://rosalind.info/problems/spec/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SPEC_Inferring%20Protein%20from%20Spectrum.py)|
-| TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|
+| TRIE    | Introduction to Pattern Matching|[Info](http://rosalind.info/problems/trie/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/TRIE_Introduction%20to%20Pattern%20Matching.py)|
 | CONV    | Comparing Spectra with the Spectral Convolution|[Info](http://rosalind.info/problems/conv/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CONV_Comparing%20Spectra%20with%20the%20Spectral%20Convolution.py)|
 | CTBL    | Creating a Character Table|[Info](http://rosalind.info/problems/ctbl/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CTBL_Creating%20a%20Character%20Table.py)|
 | DBRU    | Constructing a De Bruijn Graph|[Info](http://rosalind.info/problems/dbru/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/DBRU_Constructing%20a%20De%20Bruijn%20Graph.py)|
