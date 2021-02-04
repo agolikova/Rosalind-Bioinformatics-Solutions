@@ -63,7 +63,7 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | CONV    | Comparing Spectra with the Spectral Convolution|[Info](http://rosalind.info/problems/conv/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CONV_Comparing%20Spectra%20with%20the%20Spectral%20Convolution.py)|
 | CTBL    | Creating a Character Table|[Info](http://rosalind.info/problems/ctbl/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/CTBL_Creating%20a%20Character%20Table.py)|
 | DBRU    | Constructing a De Bruijn Graph|[Info](http://rosalind.info/problems/dbru/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/DBRU_Constructing%20a%20De%20Bruijn%20Graph.py)|
-| EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|
+| EDTA    | Edit Distance Alignment|[Info](http://rosalind.info/problems/edta/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/EDTA_Edit%20Distance%20Alignment.py)|
 | FULL    | Inferring Peptide from Full Spectrum|[Info](http://rosalind.info/problems/full/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FULL_Inferring%20Peptide%20from%20Full%20Spectrum.py)|
 | LREP    | Finding the Longest Multiple Repeat|[Info](http://rosalind.info/problems/lrep/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/LREP_Finding%20the%20Longest%20Multiple%20Repeat.py)|
 | NKEW    | Newick Format with Edge Weights|[Info](http://rosalind.info/problems/nkew/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/NKEW_Newick%20Format%20with%20Edge%20Weights.py)|
