@@ -17,7 +17,7 @@ def edit_distance_alignment(seq1, seq2):
     """Prints edit distance (Levenshtein distance) when given two protein strings,
     followed by 2 augmented strings representing optimal alignment of seq1 & seq2"""
 
-    #Initialize matrix M with len (s) rows and len(t) columns
+    #Initialize matrix M with len (s) rows and len (t) columns
     M = [[0 for j in range(len(seq2) + 1)] for i in range(len(seq1) + 1)]
 
     for i in range(1, len(seq1) + 1):
