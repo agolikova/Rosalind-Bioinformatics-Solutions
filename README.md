@@ -78,3 +78,4 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | PDPL    | Creating a Restriction Map|[Info](http://rosalind.info/problems/pdpl/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PDPL_Creating%20a%20Restriction%20Map.py)|
 | ROOT    | Counting Rooted Binary Trees|[Info](http://rosalind.info/problems/root/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/ROOT_Counting%20Rooted%20Binary%20Trees.py)|
 | INI     | Introduction to the Bioinformatics Armory|[Info](http://rosalind.info/problems/ini/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/INI_Introduction%20to%20the%20Bioinformatics%20Armory.py)|
+| DBPR    | Introduction to Protein Databases|[Info](http://rosalind.info/problems/dbpr/)|
