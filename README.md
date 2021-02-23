@@ -80,4 +80,4 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | INI     | Introduction to the Bioinformatics Armory|[Info](http://rosalind.info/problems/ini/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/INI_Introduction%20to%20the%20Bioinformatics%20Armory.py)|
 | DBPR    | Introduction to Protein Databases|[Info](http://rosalind.info/problems/dbpr/)|
 | GBK     | GenBank Introduction|[Info](http://rosalind.info/problems/gbk/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/GBK_GenBank%20Introduction.py)|
-| FRMT    | Data Formats|[Info](http://rosalind.info/problems/frmt/)|
+| FRMT    | Data Formats|[Info](http://rosalind.info/problems/frmt/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FRMT_Data%20Formats.py)|
