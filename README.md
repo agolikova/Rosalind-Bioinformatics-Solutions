@@ -81,3 +81,4 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | DBPR    | Introduction to Protein Databases|[Info](http://rosalind.info/problems/dbpr/)|
 | GBK     | GenBank Introduction|[Info](http://rosalind.info/problems/gbk/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/GBK_GenBank%20Introduction.py)|
 | FRMT    | Data Formats|[Info](http://rosalind.info/problems/frmt/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FRMT_Data%20Formats.py)|
+| NEED    | Pairwise Global Alignment|[Info](http://rosalind.info/problems/need/)|
