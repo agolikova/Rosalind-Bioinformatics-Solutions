@@ -83,3 +83,4 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | FRMT    | Data Formats|[Info](http://rosalind.info/problems/frmt/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FRMT_Data%20Formats.py)|
 | NEED    | Pairwise Global Alignment|[Info](http://rosalind.info/problems/need/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/NEED_Pairwise%20Global%20Alignment.py)|
 | TFSQ    | FASTQ Format Introduction|[Info](http://rosalind.info/problems/tfsq/)|
+| PTRA    | Protein Translation|[Info](http://rosalind.info/problems/ptra/)|
