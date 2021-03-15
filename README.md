@@ -83,6 +83,6 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | FRMT    | Data Formats|[Info](http://rosalind.info/problems/frmt/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FRMT_Data%20Formats.py)|
 | NEED    | Pairwise Global Alignment|[Info](http://rosalind.info/problems/need/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/NEED_Pairwise%20Global%20Alignment.py)|
 | TFSQ    | FASTQ Format Introduction|[Info](http://rosalind.info/problems/tfsq/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/TFSQ_FASTQ%20Format%20Introduction.py)|
-| PHRE    | Read Quality Distribution|[Info](http://rosalind.info/problems/phre/)|
+| PHRE    | Read Quality Distribution|[Info](http://rosalind.info/problems/phre/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PHRE_Read%20Quality%20Distribution.py)|
 | PTRA    | Protein Translation|[Info](http://rosalind.info/problems/ptra/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PTRA_Protein%20Translation.py)|
 | RVCO    | Complementing a Strand of DNA|[Info](http://rosalind.info/problems/rvco/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/RVCO_Complementing%20a%20Strand%20of%20DNA.py)|
