@@ -87,4 +87,4 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | PTRA    | Protein Translation|[Info](http://rosalind.info/problems/ptra/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/PTRA_Protein%20Translation.py)|
 | RVCO    | Complementing a Strand of DNA|[Info](http://rosalind.info/problems/rvco/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/RVCO_Complementing%20a%20Strand%20of%20DNA.py)|
 | FILT    | Read Filtration by Quality|[Info](http://rosalind.info/problems/filt/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/FILT_Read%20Filtration%20by%20Quality.py)|
-| SUBO    | Suboptimal Local Alignment|[Info](http://rosalind.info/problems/subo/)|
+| SUBO    | Suboptimal Local Alignment|[Info](http://rosalind.info/problems/subo/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SUBO_Suboptimal%20Local%20Alignment.py)|
