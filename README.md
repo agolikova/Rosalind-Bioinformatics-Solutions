@@ -90,4 +90,4 @@ Solutions to problems on Rosalind, a platform for learning bioinformatics and pr
 | SUBO    | Suboptimal Local Alignment|[Info](http://rosalind.info/problems/subo/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/SUBO_Suboptimal%20Local%20Alignment.py)|
 | BPHR    | Base Quality Distribution|[Info](http://rosalind.info/problems/bphr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/BPHR_Base%20Quality%20Distribution.py)|
 | ORFR    | Finding Genes with ORFs|[Info](http://rosalind.info/problems/orfr/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/ORFR_Finding%20Genes%20with%20ORFs.py)|
-| BFIL    | Base Filtration by Quality|[Info](http://rosalind.info/problems/bfil/)|
+| BFIL    | Base Filtration by Quality|[Info](http://rosalind.info/problems/bfil/)|[Solution](https://github.com/agolikova/Rosalind-Bioinformatics-Solutions/blob/main/Code/BFIL_Base%20Filtration%20by%20Quality.py)|
