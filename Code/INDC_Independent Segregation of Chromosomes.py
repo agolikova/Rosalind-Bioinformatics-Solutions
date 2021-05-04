@@ -1,4 +1,4 @@
-#Given: Positive integer n≤50
+#Given: Positive integer n ≤ 50
 #Return: Array A of len 2n in which A[k] represents common logarithm of probability that 2 diploid siblings share at least k of their 2n chromosomes
 
 import math
